@@ -1,0 +1,1608 @@
+PMID- 27627120
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171031
+LR  - 20181113
+IS  - 1518-8345 (Electronic)
+IS  - 0104-1169 (Print)
+IS  - 0104-1169 (Linking)
+VI  - 24
+IP  - 0
+DP  - 2016 Sep 9
+TI  - Tuberculosis control in people living with HIV/AIDS.
+PG  - e2798
+LID - S0104-11692016000100410 [pii]
+LID - 10.1590/1518-8345.1187.2798 [doi]
+LID - e2798
+AB  - OBJECTIVE: to analyze the offering of health actions and services for the control of 
+      tuberculosis for people living with HIV/AIDS being followed up in the Specialized 
+      Care Services for HIV/AIDS in Ribeirão Preto, SP, Brazil. METHOD: quantitative, 
+      exploratory survey study. Participated 253 people living with HIV/AIDS followed up 
+      by this service, considering as inclusion criteria: individuals older than 18 years 
+      living in the city and not inmates. Data collection was conducted from January 2012 
+      to May 2013 through interviews with the support of a specific instrument. Data were 
+      analyzed using indicators and a composite index. RESULTS: the offering of services 
+      for the control of tuberculosis in people living with HIV/AIDS by municipal services 
+      was considered as intermediate, reinforcing the need for better planning for 
+      comprehensive assistance, coordination of professionals in teams and among the 
+      services network, in addition to professional training and continuing education. 
+      CONCLUSION: it is necessary to implement strategies that promote shared actions 
+      between TB and HIV / AIDS programs and between different services in order to 
+      strengthen the local care network, aimed at producing an individualized care, 
+      comprehensive and responsive. OBJETIVO: analisar a oferta das ações e serviços de 
+      saúde para o controle da tuberculose nas pessoas vivendo com HIV/aids em seguimento 
+      pelos Serviços de Atenção Especializada ao HIV/aids de Ribeirão Preto, SP, Brasil. 
+      MÉTODO: estudo quantitativo, exploratório, do tipo inquérito. Participaram 253 
+      pessoas vivendo com HIV/aids em seguimento nos serviços, considerando os critérios 
+      de inclusão: indivíduos maiores de 18 anos, residentes no município e não 
+      pertencentes ao sistema prisional. A coleta de dados foi realizada no período de 
+      janeiro/2012 a maio/2013, por meio de entrevistas com apoio de um instrumento 
+      específico. Os dados foram analisados mediante indicadores e índice composto. 
+      RESULTADOS: a oferta de ações e serviços para o controle da tuberculose nas pessoas 
+      vivendo com HIV/aids pelos serviços do município foi considerada regular, reforçando 
+      a necessidade de melhor planejamento da assistência de forma integral, articulação 
+      dos profissionais nas equipes e entre os serviços da rede, além da formação 
+      profissional e educação permanente. CONCLUSÃO: faz-se necessário a implementação de 
+      estratégias que favoreçam ações compartilhadas entre os programas de tuberculose e 
+      HIV/aids e entre os diferentes serviços, com o intuito de fortalecer a rede local de 
+      atenção objetivando a produção de um cuidado singular, integral e resolutivo. 
+      OBJETIVO: analizar la oferta de acciones y servicios de salud para el control de la 
+      tuberculosis en las personas viviendo con VIH-SIDA acompañadas por los Servicios de 
+      Atención Especializada al VIH-SIDA de Ribeirao Preto, SP, Brasil. MÉTODO: estudio 
+      cuantitativo, exploratorio, de tipo encuesta. Participaron 253 personas viviendo con 
+      VIH-SIDA seguidas por estos servicios, considerando como criterios de inclusión: 
+      individuos mayores de 18 años, residentes en el municipio y no ser del sistema de 
+      prisiones. La recolección de datos fue realizada en el periodo de enero de 2012 a 
+      mayo de 2013, por medio de entrevistas guiadas por un instrumento especifico. Los 
+      datos fueron analizados mediante indicadores y un índice compuesto. RESULTADOS: la 
+      oferta de acciones y servicios para el control de la tuberculosis en personas 
+      viviendo con VIH-SIDA fue considerada intermedia, reforzando la necesidad de mejorar 
+      la planificación de la asistencia en forma integral, la articulación de los 
+      profesionales en los equipos y entre los servicios de la red, además de la formación 
+      profesional y la educación permanente. CONCLUSIÓN: se hace necesaria la 
+      implementación de estrategias que favorezcan las acciones compartidas entre los 
+      programas de tuberculosis y VIH-SIDA y entre los diferentes servicios, con el fin de 
+      fortalecer la red local de atención para producir un cuidado personalizado, integral 
+      y resolutivo.
+FAU - Magnabosco, Gabriela Tavares
+AU  - Magnabosco GT
+AD  - PhD, Post-doctoral fellow, Escola de Enfermagem de Ribeirão Preto, Universidade de 
+      São Paulo, PAHO/WHO Collaborating Centre for Nursing Research Development, Ribeirão 
+      Preto, SP, Brazil.
+FAU - Lopes, Lívia Maria
+AU  - Lopes LM
+AD  - MSc, Doctoral student, Escola de Enfermagem de Ribeirão Preto, Universidade de São 
+      Paulo, PAHO/WHO Collaborating Centre for Nursing Research Development, Ribeirão 
+      Preto, SP, Brazil.
+FAU - Andrade, Rubia Laine de Paula
+AU  - Andrade RL
+AD  - PhD, RN, Escola de Enfermagem de Ribeirão Preto, Universidade de São Paulo, PAHO/WHO 
+      Collaborating Centre for Nursing Research Development, Ribeirão Preto, SP, Brazil.
+FAU - Brunello, Maria Eugênia Firmino
+AU  - Brunello ME
+AD  - PhD, Professor, Escola de Enfermagem de Ribeirão Preto, Universidade de São Paulo, 
+      PAHO/WHO Collaborating Centre for Nursing Research Development, Ribeirão Preto, SP, 
+      Brazil.
+FAU - Monroe, Aline Aparecida
+AU  - Monroe AA
+AD  - PhD, Professor, Escola de Enfermagem de Ribeirão Preto, Universidade de São Paulo, 
+      PAHO/WHO Collaborating Centre for Nursing Research Development, Ribeirão Preto, SP, 
+      Brazil.
+FAU - Villa, Tereza Cristina Scatena
+AU  - Villa TC
+AD  - PhD, Full Professor, Escola de Enfermagem de Ribeirão Preto, Universidade de São 
+      Paulo, PAHO/WHO Collaborating Centre for Nursing Research Development, Ribeirão 
+      Preto, SP, Brazil.
+LA  - eng
+LA  - por
+LA  - spa
+PT  - Journal Article
+DEP - 20160909
+TA  - Rev Lat Am Enfermagem
+JT  - Revista latino-americana de enfermagem
+JID - 9420934
+MH  - Acquired Immunodeficiency Syndrome/complications
+MH  - Adult
+MH  - Brazil
+MH  - HIV Infections/*complications
+MH  - Humans
+MH  - Tuberculosis/*complications/*prevention & control
+PMC - PMC5048724
+EDAT- 2016/09/15 06:00
+MHDA- 2017/11/01 06:00
+CRDT- 2016/09/15 06:00
+PHST- 2015/07/30 00:00 [received]
+PHST- 2016/03/15 00:00 [accepted]
+PHST- 2016/09/15 06:00 [entrez]
+PHST- 2016/09/15 06:00 [pubmed]
+PHST- 2017/11/01 06:00 [medline]
+AID - S0104-11692016000100410 [pii]
+AID - 10.1590/1518-8345.1187.2798 [doi]
+PST - epublish
+SO  - Rev Lat Am Enfermagem. 2016 Sep 9;24(0):e2798. doi: 10.1590/1518-8345.1187.2798.
+
+PMID- 31093179
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200225
+IS  - 1680-5348 (Electronic)
+IS  - 1020-4989 (Print)
+IS  - 1020-4989 (Linking)
+VI  - 42
+DP  - 2018
+TI  - [HIV/Aids management at the primary care level in Brazil: a challenge for the 
+      Unified Health System?Cuidados de pacientes VIH / SIDA y atención primaria en 
+      Brasil: desafíos para la atención en el Sistema Único de Salud?].
+PG  - e151
+LID - 10.26633/RPSP.2018.151 [doi]
+LID - e151
+AB  - In Brazil, the Unified Health System (SUS) entails the establishment of hierarchical 
+      and regionalized networks coordinated from the primary health care (PHC) level, 
+      which is also the entry point into the system. Recently, as a result of new 
+      guidelines and experiences in Brazil, PCH has been assigned a more substantial role 
+      in the care and management of people living with HIV/Aids, tasks traditionally 
+      performed at specialized clinics. The present article contextualizes and 
+      problematizes this recent process of decentralized care to people living the 
+      HIV/Aids in the context of the SUS. Since 2011, new diagnostic technologies (such as 
+      rapid testing)) have been become available at PHC units in Brazil, expanding access 
+      to testing and promoting an increase in the number of HIV diagnoses performed at the 
+      PHC level. Since 2013, new guidelines and recommendations have also supported the 
+      management of people with HIV/Aids in PHC units. The present article examines the 
+      relationship between PHC and specialized care, issues of access, stigma, and 
+      confidentiality within PHC, and the mode of organization and functioning of family 
+      health teams, especially the formal link between residents in catchment areas and 
+      health teams and workers. In conclusion, many challenges - moral, ethical, 
+      technical, organizational, and political - have to be faced in order to increase 
+      access and quality of care in the context of PHC for people living with HIV/Aids in 
+      Brazil.
+FAU - Melo, Eduardo Alves
+AU  - Melo EA
+AD  - Fundação Oswaldo Cruz, Escola Nacional de Saúde Pública (ENSP), Rio de Janeiro (RJ), 
+      Brasil.
+FAU - Maksud, Ivia
+AU  - Maksud I
+AD  - Fundação Oswaldo Cruz, Instituto Fernandes Figueira, Rio de Janeiro (RJ), Brasil.
+FAU - Agostini, Rafael
+AU  - Agostini R
+AD  - Fundação Oswaldo Cruz, Instituto Fernandes Figueira, Rio de Janeiro (RJ), Brasil.
+LA  - por
+PT  - English Abstract
+PT  - Journal Article
+TT  - Cuidado, HIV/Aids e atenção primária no Brasil: desafio para a atenção no Sistema 
+      Único de Saúde?
+DEP - 20181127
+TA  - Rev Panam Salud Publica
+JT  - Revista panamericana de salud publica = Pan American journal of public health
+JID - 9705400
+PMC - PMC6386111
+OAB - Publisher: Abstract available from the publisher.
+OABL- por
+OTO - NOTNLM
+OT  - Brazil
+OT  - Primary health care
+OT  - acquired immunodeficiency syndrome
+OT  - comprehensive health care
+COIS- Conflitos de interesse. Nada declarado pelos autores.
+EDAT- 2019/05/17 06:00
+MHDA- 2019/05/17 06:01
+CRDT- 2019/05/17 06:00
+PHST- 2017/12/24 00:00 [received]
+PHST- 2018/08/13 00:00 [accepted]
+PHST- 2019/05/17 06:00 [entrez]
+PHST- 2019/05/17 06:00 [pubmed]
+PHST- 2019/05/17 06:01 [medline]
+AID - RPSP.2018.151 [pii]
+AID - 10.26633/RPSP.2018.151 [doi]
+PST - epublish
+SO  - Rev Panam Salud Publica. 2018 Nov 27;42:e151. doi: 10.26633/RPSP.2018.151. 
+      eCollection 2018.
+
+PMID- 34152663
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211015
+LR  - 20211015
+IS  - 1758-2652 (Electronic)
+IS  - 1758-2652 (Linking)
+VI  - 24
+IP  - 6
+DP  - 2021 Jun
+TI  - Trends in demographic and clinical characteristics and initiation of antiretroviral 
+      therapy among adult patients enrolling in HIV care in the Central Africa 
+      International epidemiology Database to Evaluate AIDS (CA-IeDEA) 2004 to 2018.
+PG  - e25672
+LID - 10.1002/jia2.25672 [doi]
+LID - e25672
+AB  - INTRODUCTION: The Central Africa International epidemiology Database to Evaluate 
+      AIDS (CA-IeDEA) is an open observational cohort study investigating impact, 
+      progression and long-term outcomes of HIV/AIDS among people living with HIV (PLWH) 
+      in Burundi, Cameroon, Democratic Republic of Congo (DRC), Republic of Congo (ROC) 
+      and Rwanda. We describe trends in demographic, clinical and immunological 
+      characteristics as well as antiretroviral therapy (ART) use of patients 
+      aged > 15 years entering into HIV care in the participating CA-IeDEA site. METHODS: 
+      Information on sociodemographic characteristics, height, weight, body mass index 
+      (BMI), CD4 cell count, WHO staging and ART status at entry into care from 2004 
+      through 2018 were extracted from clinic records of patients aged > 15 years 
+      enrolling in HIV care at participating clinics in Burundi, Cameroon, DRC, ROC and 
+      Rwanda. We assessed trends in patient characteristics at enrolment in HIV care 
+      including ART initiation within the first 30 days after enrolment in care and 
+      calculated proportions, means and medians (interquartile ranges) for the main 
+      variables of interest. RESULTS: Among 69,176 patients in the CA-IeDEA cohort, 39% 
+      were from Rwanda, 24% from ROC, 18% from Cameroon, 14% from Burundi and 5% from DRC. 
+      More women (66%) than men enrolled in care and subsequently initiated ART. Women 
+      were also younger than men (32 vs. 38 years, P < 0.001) at enrolment and at ART 
+      initiation. Trends over time show increases in median CD4 cell count at enrolment 
+      from 190 cells/µL in 2004 to 334 cells/µL in 2018 at enrolment. Among those with 
+      complete data on CD4 counts (60%), women had a higher median CD4 cell count at care 
+      entry than men (229 vs. 249 cells/µL, P < 0.001). Trends in the proportion of 
+      patients using ART within 30 days of enrolment at the participating site show an 
+      increase from 16% in 2004 to 75% in 2018. CONCLUSIONS: Trends from 2004 to 2018 in 
+      the characteristics of patients participating in the CA-IeDEA cohort highlight 
+      improvements at entry into care and subsequent ART initiation including after the 
+      implementation of Treat All guidelines in the participating sites.
+CI  - © 2021 The Authors. Journal of the International AIDS Society published by John 
+      Wiley & Sons Ltd on behalf of the International AIDS Society.
+FAU - Adedimeji, Adebola A
+AU  - Adedimeji AA
+AUID- ORCID: 0000-0002-8012-9124
+AD  - Department of Epidemiology and Population Health, Albert Einstein College of 
+      Medicine/Montefiore Medical Center, Bronx, NY, USA.
+FAU - Hoover, Donald R
+AU  - Hoover DR
+AD  - Department of Statistics, Rutgers University, Piscataway, NJ, USA.
+FAU - Shi, Qiuhu
+AU  - Shi Q
+AD  - Department of Public Health, School of Health Sciences and Practice, New York 
+      Medical College, Valhalla, NY, USA.
+FAU - Kim, Hae-Young
+AU  - Kim HY
+AD  - Department of Public Health, School of Health Sciences and Practice, New York 
+      Medical College, Valhalla, NY, USA.
+FAU - Brazier, Ellen
+AU  - Brazier E
+AUID- ORCID: 0000-0002-8514-1958
+AD  - School of Public Health, City University of New York, New York, NY, USA.
+FAU - Ross, Jonathan
+AU  - Ross J
+AUID- ORCID: 0000-0001-6126-3048
+AD  - Department of Medicine, Albert Einstein College of Medicine, Bronx, NY, USA.
+FAU - Murenzi, Gad
+AU  - Murenzi G
+AD  - Division of Clinical Education, Rwanda Military Hospital, Kanombe, Kigali, Rwanda.
+FAU - Twizere, Christella
+AU  - Twizere C
+AUID- ORCID: 0000-0003-1102-5564
+AD  - Centre National de Reference en Matière de VIH/SIDA, Bujumbura, Burundi.
+FAU - Lelo, Patricia
+AU  - Lelo P
+AD  - Pediatric Hospital Kalembe Lembe, Kinshasa, Democratic Republic of Congo.
+FAU - Nsonde, Dominique
+AU  - Nsonde D
+AD  - CTA Brazzaville, Brazzaville, Republic of Congo.
+FAU - Ajeh, Rogers
+AU  - Ajeh R
+AD  - Clinical Research Education, Networking and Consultancy, Yaounde, Cameroon.
+FAU - Dzudie, Anastase
+AU  - Dzudie A
+AD  - Clinical Research Education, Networking and Consultancy, Yaounde, Cameroon.
+FAU - Nash, Denis
+AU  - Nash D
+AD  - School of Public Health, City University of New York, New York, NY, USA.
+FAU - Yotebieng, Marcel
+AU  - Yotebieng M
+AD  - Department of Medicine, Albert Einstein College of Medicine, Bronx, NY, USA.
+FAU - Anastos, Kathryn
+AU  - Anastos K
+AD  - Department of Epidemiology and Population Health, Albert Einstein College of 
+      Medicine/Montefiore Medical Center, Bronx, NY, USA.
+AD  - Department of Medicine, Albert Einstein College of Medicine, Bronx, NY, USA.
+CN  - Central Africa IeDEA Consortium
+LA  - eng
+GR  - U01 AI096299/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Observational Study
+PT  - Research Support, N.I.H., Extramural
+TA  - J Int AIDS Soc
+JT  - Journal of the International AIDS Society
+JID - 101478566
+RN  - 0 (Anti-HIV Agents)
+SB  - IM
+MH  - *Acquired Immunodeficiency Syndrome/drug therapy
+MH  - Adult
+MH  - Africa, Central/epidemiology
+MH  - Aged
+MH  - *Anti-HIV Agents/therapeutic use
+MH  - CD4 Lymphocyte Count
+MH  - Demography
+MH  - Female
+MH  - *HIV Infections/drug therapy/epidemiology
+MH  - Humans
+MH  - Male
+PMC - PMC8216247
+OTO - NOTNLM
+OT  - *ARV
+OT  - *Africa
+OT  - *HIV care continuum
+OT  - *HIV epidemiology
+OT  - *cohort studies
+OT  - *low- and middle-income countries
+FIR - Pélagie, Nimbona
+IR  - Pélagie N
+FIR - Gateretse, Patrick
+IR  - Gateretse P
+FIR - Munezero, Jeanine
+IR  - Munezero J
+FIR - Nitereka, Valentin
+IR  - Nitereka V
+FIR - Niyongabo, Théodore
+IR  - Niyongabo T
+FIR - Twizere, Christelle
+IR  - Twizere C
+FIR - Bukuru, Hélène
+IR  - Bukuru H
+FIR - Nahimana, Thierry
+IR  - Nahimana T
+FIR - Baransaka, Elysée
+IR  - Baransaka E
+FIR - Barasukana, Patrice
+IR  - Barasukana P
+FIR - Kabanda, Eugene
+IR  - Kabanda E
+FIR - Manirakiza, Martin
+IR  - Manirakiza M
+FIR - Ndikumwenayo, François
+IR  - Ndikumwenayo F
+FIR - Biziragusenyuka, Jérémie
+IR  - Biziragusenyuka J
+FIR - Munezero, Ange Marie Michelline
+IR  - Munezero AMM
+FIR - Mbuh, Tabeyang
+IR  - Mbuh T
+FIR - Njie, Kinge Thompson
+IR  - Njie KT
+FIR - Tchassem, Edmond
+IR  - Tchassem E
+FIR - Tsi, Kien-Atsu
+IR  - Tsi KA
+FIR - Benwi, Mark
+IR  - Benwi M
+FIR - Ngamani, Marc Lionel
+IR  - Ngamani ML
+FIR - Nkome, Victorine
+IR  - Nkome V
+FIR - Sandjong, Falone
+IR  - Sandjong F
+FIR - Mbuh, Akindeh
+IR  - Mbuh A
+FIR - Amadou, Djenabou
+IR  - Amadou D
+FIR - Balkissou, Amadou Dodo
+IR  - Balkissou AD
+FIR - Ngassam, Eric
+IR  - Ngassam E
+FIR - Yone, Eric Walter Pefura
+IR  - Yone EWP
+FIR - Ewanoge, Alice Ndelle
+IR  - Ewanoge AN
+FIR - Fuhngwa, Norbert
+IR  - Fuhngwa N
+FIR - Kendowo, Ernestine
+IR  - Kendowo E
+FIR - Moki, Chris
+IR  - Moki C
+FIR - Nforniwe, Denis Nsame
+IR  - Nforniwe DN
+FIR - Akele, Catherine
+IR  - Akele C
+FIR - Kitetele, Faustin
+IR  - Kitetele F
+FIR - Tabala, Martine
+IR  - Tabala M
+FIR - Okitolonda, Emile Wemakoy
+IR  - Okitolonda EW
+FIR - Ekembe, Cherubin
+IR  - Ekembe C
+FIR - Diafouka, Merlin
+IR  - Diafouka M
+FIR - Ekat, Martin Herbas
+IR  - Ekat MH
+FIR - Mafou, Adolphe
+IR  - Mafou A
+FIR - Ayinkamiye, Nicole
+IR  - Ayinkamiye N
+FIR - Igirimbabazi, Jules
+IR  - Igirimbabazi J
+FIR - Ndamijimana, Emmanuel
+IR  - Ndamijimana E
+FIR - Habarurema, Emmanuel
+IR  - Habarurema E
+FIR - Nyiraneza, Marie Luise
+IR  - Nyiraneza ML
+FIR - Mukamusana, Dorothee
+IR  - Mukamusana D
+FIR - Tuyisenge, Liliane
+IR  - Tuyisenge L
+FIR - Kankindi, Catherine
+IR  - Kankindi C
+FIR - Shyaka, Christian
+IR  - Shyaka C
+FIR - Ingabire, Marie Grace
+IR  - Ingabire MG
+FIR - Uwakijijwe, Bonheur
+IR  - Uwakijijwe B
+FIR - Ndumuhire, Jules
+IR  - Ndumuhire J
+FIR - Nyirabahutu, Marie Goretti
+IR  - Nyirabahutu MG
+FIR - Ndoli, Yvette
+IR  - Ndoli Y
+FIR - Uwamahoro, Oliver
+IR  - Uwamahoro O
+FIR - Muhayimpundu, Ribakare
+IR  - Muhayimpundu R
+FIR - Nsanzimana, Sabin
+IR  - Nsanzimana S
+FIR - Remera, Eric
+IR  - Remera E
+FIR - Umumararungu, Esperance
+IR  - Umumararungu E
+FIR - Busingye, Lydia
+IR  - Busingye L
+FIR - Butera, Alex M
+IR  - Butera AM
+FIR - Gasana, Josephine
+IR  - Gasana J
+FIR - Habiryayo, Thierry
+IR  - Habiryayo T
+FIR - Ingabire, Charles
+IR  - Ingabire C
+FIR - Kabahizi, Jules
+IR  - Kabahizi J
+FIR - Kagimbana, Jean Chrysostome
+IR  - Kagimbana JC
+FIR - Kanyabwisha, Faustin
+IR  - Kanyabwisha F
+FIR - Kubwimana, Gallican
+IR  - Kubwimana G
+FIR - Muhoza, Benjamin
+IR  - Muhoza B
+FIR - Munyaneza, Athanase
+IR  - Munyaneza A
+FIR - Musabyimana, Francoise
+IR  - Musabyimana F
+FIR - Mwiza, Francine
+IR  - Mwiza F
+FIR - Rwibasira, Gallican Nshogoza
+IR  - Rwibasira GN
+FIR - Sinayobye, Jean d'Amour
+IR  - Sinayobye JD
+FIR - Tuyisenge, Patrick
+IR  - Tuyisenge P
+FIR - Benekigeri, Chantal
+IR  - Benekigeri C
+FIR - Musaninyange, Jacqueline
+IR  - Musaninyange J
+FIR - Adedimeji, Adebola
+IR  - Adedimeji A
+FIR - Dilorenzo, Madeline
+IR  - Dilorenzo M
+FIR - Murchison, Lynn
+IR  - Murchison L
+FIR - Addison, Diane
+IR  - Addison D
+FIR - Jones, Heidi
+IR  - Jones H
+FIR - Kelvin, Elizabeth
+IR  - Kelvin E
+FIR - Kulkarni, Sarah
+IR  - Kulkarni S
+FIR - Romo, Matthew
+IR  - Romo M
+FIR - Tymejczyk, Olga
+IR  - Tymejczyk O
+FIR - Elul, Batya
+IR  - Elul B
+FIR - Cai, Xiatao
+IR  - Cai X
+FIR - Dong, Allan
+IR  - Dong A
+FIR - Hoover, Don
+IR  - Hoover D
+FIR - Li, Chunshan
+IR  - Li C
+FIR - Shi, Qiuhu
+IR  - Shi Q
+FIR - Agler, Robert
+IR  - Agler R
+FIR - Lancaster, Kathryn
+IR  - Lancaster K
+FIR - Kuniholm, Mark
+IR  - Kuniholm M
+FIR - Edmonds, Andrew
+IR  - Edmonds A
+FIR - Parcesepe, Angela
+IR  - Parcesepe A
+FIR - Edwards, Jess
+IR  - Edwards J
+FIR - Keiser, Olivia
+IR  - Keiser O
+FIR - Duda, Stephany
+IR  - Duda S
+FIR - Kimmel, April
+IR  - Kimmel A
+EDAT- 2021/06/22 06:00
+MHDA- 2021/10/16 06:00
+CRDT- 2021/06/21 12:33
+PHST- 2020/11/17 00:00 [revised]
+PHST- 2020/06/25 00:00 [received]
+PHST- 2021/01/27 00:00 [accepted]
+PHST- 2021/06/21 12:33 [entrez]
+PHST- 2021/06/22 06:00 [pubmed]
+PHST- 2021/10/16 06:00 [medline]
+AID - JIA225672 [pii]
+AID - 10.1002/jia2.25672 [doi]
+PST - ppublish
+SO  - J Int AIDS Soc. 2021 Jun;24(6):e25672. doi: 10.1002/jia2.25672.
+
+PMID- 29165512
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180131
+LR  - 20180131
+IS  - 0717-6341 (Electronic)
+IS  - 0716-1018 (Linking)
+VI  - 34
+IP  - 4
+DP  - 2017 Aug
+TI  - [Antiretroviral treatment adherence for HIV/AIDS in women: a sociocultural 
+      perspective].
+PG  - 352-358
+LID - S0716-10182017000400352 [pii]
+LID - 10.4067/s0716-10182017000400352 [doi]
+AB  - BACKGROUND: Adequate adherence to HAART has a high impact on survival of AIDA 
+      patients. There is little consensus on the causes of low adherence to treatment in 
+      women, who are in a situation of inequality in terms of prevention and related care. 
+      OBJECTIVES: To explore and describe the socio-cultural aspects related to the 
+      adherence of women to antiretroviral treatment for HIV / AIDS. MATERIAL AND METHODS: 
+      Qualitative, exploratory-descriptive study. The study population was focused on 
+      Chilean women, who are 18 years of age or older, living with HIV/AIDS. The sample 
+      size was defined by information saturation. In-depth interviews were conducted with 
+      16 women contacted in seven public care centers for people living with HIV (PLHIV) 
+      in 4 regions of the country, and it was take into account the saturation of the 
+      information. RESULTS: There are several sociocultural factors that determine the 
+      level of adherence that women adopt in relation to HAART. The most relevant ones are 
+      the vital satisfaction, the imaginary about HIV, the availability of their networks 
+      in front of diagnosis and the availability of information are fundamental. 
+      DISCUSSION: It is necessary to enter into specific interventions considering the 
+      sociocultural aspects and satisfying the psychosocial needs of women. It is 
+      imperative that public policies and health teams consider these aspects to improve 
+      adherence to HAART.
+FAU - Belmar, Julieta
+AU  - Belmar J
+AD  - Escuela de Salud Pública, Facultad de Medicina, Universidad de Chile, Chile.
+FAU - Stuardo, Valeria
+AU  - Stuardo V
+AD  - Escuela de Salud Pública, Facultad de Medicina, Universidad de Chile, Chile.
+LA  - spa
+PT  - Journal Article
+TT  - Adherencia al tratamiento anti-retroviral para el VIH/SIDA en mujeres: una mirada 
+      socio-cultural.
+PL  - Chile
+TA  - Rev Chilena Infectol
+JT  - Revista chilena de infectologia : organo oficial de la Sociedad Chilena de 
+      Infectologia
+JID - 9305754
+RN  - 0 (Anti-HIV Agents)
+SB  - IM
+MH  - Adult
+MH  - Anti-HIV Agents/*therapeutic use
+MH  - Chile
+MH  - *Cultural Characteristics
+MH  - Female
+MH  - HIV Infections/*drug therapy
+MH  - Humans
+MH  - Medication Adherence/psychology/*statistics & numerical data
+MH  - Qualitative Research
+MH  - Sex Factors
+MH  - Socioeconomic Factors
+EDAT- 2017/11/23 06:00
+MHDA- 2018/02/01 06:00
+CRDT- 2017/11/23 06:00
+PHST- 2016/12/05 00:00 [received]
+PHST- 2017/07/11 00:00 [accepted]
+PHST- 2017/11/23 06:00 [entrez]
+PHST- 2017/11/23 06:00 [pubmed]
+PHST- 2018/02/01 06:00 [medline]
+AID - S0716-10182017000400352 [pii]
+AID - 10.4067/s0716-10182017000400352 [doi]
+PST - ppublish
+SO  - Rev Chilena Infectol. 2017 Aug;34(4):352-358. doi: 10.4067/s0716-10182017000400352.
+
+PMID- 26821952
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161104
+LR  - 20181113
+IS  - 1813-4424 (Electronic)
+IS  - 1729-0376 (Print)
+IS  - 1729-0376 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2016
+TI  - Weak signal detection: A discrete window of opportunity for achieving 'Vision 
+      90:90:90'?
+PG  - 17-34
+LID - 10.1080/17290376.2015.1123642 [doi]
+AB  - INTRODUCTION: UNAIDS' Vision 90:90:90 is a call to 'end AIDS'. Developing predictive 
+      foresight of the unpredictable changes that this journey will entail could 
+      contribute to the ambition of 'ending AIDS'. There are few opportunities for 
+      managing unpredictable changes. We introduce 'weak signal detection' as a potential 
+      opportunity to fill this void. METHOD: Combining futures and complexity theory, we 
+      reflect on two pilot case studies that involved the Archetype Extraction technique 
+      and the SenseMaker(®) Collector(™) tool. RESULTS: Both the piloted techniques have 
+      the potentials to surface weak signals--but there is room for improvement. 
+      DISCUSSION: A management response to a complex weak signal requires pattern 
+      management, rather than an exclusive focus on behaviour management. CONCLUSION: Weak 
+      signal detection is a window of opportunity to improve resilience to unpredictable 
+      changes in the HIV/AIDS landscape that can both reduce the risk that emerges from 
+      the changes and increase the visibility of opportunities to exploit the 
+      unpredictable changes that could contribute to 'ending AIDS'.
+FAU - Burman, Christopher J
+AU  - Burman CJ
+AD  - a PhD, is affiliated to Rural Development and Innovation Hub , University of Limpopo 
+      , Turfloop Campus, Polokwane , South Africa.
+FAU - Aphane, Marota
+AU  - Aphane M
+AD  - b Masters in Development, is affiliated to Rural Development and Innovation Hub , 
+      University of Limpopo , Turfloop Campus, Polokwane , South Africa.
+FAU - Delobelle, Peter
+AU  - Delobelle P
+AD  - c MD, PhD is affiliated to School of Public Health , University of the Western Cape 
+      , Robert Sobukwe Road, Belville , Cape Town 7535 , South Africa.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+TA  - SAHARA J
+JT  - SAHARA J : journal of Social Aspects of HIV/AIDS Research Alliance
+JID - 101226212
+SB  - IM
+MH  - Community Health Services/*organization & administration
+MH  - *Community Networks/organization & administration
+MH  - Evidence-Based Practice
+MH  - HIV Infections/*prevention & control
+MH  - Health Promotion/*organization & administration
+MH  - Humans
+MH  - Models, Theoretical
+MH  - Organizational Innovation
+MH  - Pilot Projects
+MH  - South Africa/epidemiology
+PMC - PMC5642432
+OAB - Publisher: Abstract available from the publisher.
+OABL- fre
+OTO - NOTNLM
+OT  - Cynefin framework
+OT  - HIV/AIDS
+OT  - VIH/SIDA
+OT  - autopoiesis
+OT  - complexity theory
+OT  - futures science
+OT  - sciences des futures
+OT  - théorie de la complexité
+EDAT- 2016/01/30 06:00
+MHDA- 2016/11/05 06:00
+CRDT- 2016/01/30 06:00
+PHST- 2016/01/30 06:00 [entrez]
+PHST- 2016/01/30 06:00 [pubmed]
+PHST- 2016/11/05 06:00 [medline]
+AID - 1123642 [pii]
+AID - 10.1080/17290376.2015.1123642 [doi]
+PST - ppublish
+SO  - SAHARA J. 2016;13(1):17-34. doi: 10.1080/17290376.2015.1123642.
+
+PMID- 25707605
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170213
+LR  - 20170213
+IS  - 1578-1283 (Electronic)
+IS  - 0213-9111 (Linking)
+VI  - 29
+IP  - 3
+DP  - 2015 May-Jun
+TI  - Use of new technologies to notify possible contagion of sexually-transmitted 
+      infections among men.
+PG  - 190-7
+LID - S0213-9111(15)00006-0 [pii]
+LID - 10.1016/j.gaceta.2015.01.003 [doi]
+AB  - BACKGROUND: Among men who have sex with men (MSM), the association between searching 
+      for sexual partners' on the Internet and increased risk of sexually transmitted 
+      infections (STIs)/HIV infection, together with current low levels of partner 
+      notification (PN), justifies a study to explore the intention to use new 
+      communication technologies for PN in Spain. METHODS: Two cross-sectional surveys 
+      were performed: the first was administered online to visitors to web pages where the 
+      survey was advertised; the second was administered on paper to patients attending an 
+      STI Unit and centres similar to Community-Based Voluntary Counselling and Testing 
+      centres. RESULTS: The study population comprised 1578 Spanish residents (median age, 
+      34 years [range: 18 to 74]); 84% lived in urban areas, and 69% reported searching 
+      for sexual partners on the Internet. Thirty-seven per cent would be willing to use a 
+      website for PN, 26% did not know if they would use one, and 37% would not want to 
+      use one. The main reasons for not intending to notify STI/HIV were "shame or fear" 
+      (stable partner) and "not knowing how to contact them" (casual partner). The 
+      preferred method of notification was face to face (73%) for both stable and casual 
+      partners, although using new technologies (Short Messaging System, e-mail, web page, 
+      phone applications) was widely accepted for notifying casual partners. CONCLUSIONS: 
+      Fighting stigma and promoting alternative methods of PN among MSM and health 
+      professionals through new technologies could increase the frequency of PN. This 
+      approach will improve early detection and reduce transmission in Spain.
+CI  - Copyright © 2014 SESPAS. Published by Elsevier Espana. All rights reserved.
+FAU - Carnicer-Pont, Dolors
+AU  - Carnicer-Pont D
+AD  - Centre of Epidemiological Studies of HIV/AIDS and STI of Catalonia (CEEISCAT) 
+      Catalan Institut of Oncology (ICO) -Public Health Agency of Catalonia (ASPCAT), 
+      Spain; Department of Paediatrics, Obstetrics and Gynaecology of the Autonomous 
+      University of Barcelona (UAB), Bellaterra, Spain; CIBER, Epidemiology and Public 
+      Health (CIBERESP), Spain. Electronic address: dcarnice@gmail.com.
+FAU - Barbera-Gracia, María Jesús
+AU  - Barbera-Gracia MJ
+AD  - STI Unit, Special Programme Infectious Diseases Vall d'Hebron-Drassanes University 
+      Hospital Vall d'Hebrón, Barcelona, Spain.
+FAU - Fernández-Dávila, Percy
+AU  - Fernández-Dávila P
+AD  - Centre of Epidemiological Studies of HIV/AIDS and STI of Catalonia (CEEISCAT) 
+      Catalan Institut of Oncology (ICO) -Public Health Agency of Catalonia (ASPCAT), 
+      Spain; Stop Sida, Barcelona, Spain.
+FAU - García de Olalla, Patricia
+AU  - García de Olalla P
+AD  - Agència de Salut Pública de Barcelona (ASPB), Spain; CIBER, Epidemiology and Public 
+      Health (CIBERESP), Spain.
+FAU - Muñoz, Rafael
+AU  - Muñoz R
+AD  - Centre of Epidemiological Studies of HIV/AIDS and STI of Catalonia (CEEISCAT) 
+      Catalan Institut of Oncology (ICO) -Public Health Agency of Catalonia (ASPCAT), 
+      Spain; Stop Sida, Barcelona, Spain.
+FAU - Jacques-Aviñó, Constanza
+AU  - Jacques-Aviñó C
+AD  - Agència de Salut Pública de Barcelona (ASPB), Spain.
+FAU - Saladié-Martí, María Pilar
+AU  - Saladié-Martí MP
+AD  - STI Unit, Special Programme Infectious Diseases Vall d'Hebron-Drassanes University 
+      Hospital Vall d'Hebrón, Barcelona, Spain.
+FAU - Gosch-Elcoso, Mercè
+AU  - Gosch-Elcoso M
+AD  - STI Unit, Special Programme Infectious Diseases Vall d'Hebron-Drassanes University 
+      Hospital Vall d'Hebrón, Barcelona, Spain.
+FAU - Arellano Muñoz, Encarna
+AU  - Arellano Muñoz E
+AD  - STI Unit, Special Programme Infectious Diseases Vall d'Hebron-Drassanes University 
+      Hospital Vall d'Hebrón, Barcelona, Spain.
+FAU - Casabona, Jordi
+AU  - Casabona J
+AD  - Centre of Epidemiological Studies of HIV/AIDS and STI of Catalonia (CEEISCAT) 
+      Catalan Institut of Oncology (ICO) -Public Health Agency of Catalonia (ASPCAT), 
+      Spain; Department of Paediatrics, Obstetrics and Gynaecology of the Autonomous 
+      University of Barcelona (UAB), Bellaterra, Spain; CIBER, Epidemiology and Public 
+      Health (CIBERESP), Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150221
+PL  - Spain
+TA  - Gac Sanit
+JT  - Gaceta sanitaria
+JID - 8901623
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Community Health Centers
+MH  - Contact Tracing/*methods
+MH  - Cross-Sectional Studies
+MH  - Emotions
+MH  - Humans
+MH  - *Internet
+MH  - Male
+MH  - Middle Aged
+MH  - Sexual Behavior
+MH  - *Sexual Partners
+MH  - Sexually Transmitted Diseases/epidemiology/*prevention & 
+      control/psychology/transmission
+MH  - Social Media
+MH  - Social Stigma
+MH  - Socioeconomic Factors
+MH  - Spain/epidemiology
+MH  - Telephone
+MH  - Urban Population
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Communication networks
+OT  - Infección de transmisión sexual/VIH
+OT  - Internet
+OT  - Notificación a las parejas sexuales
+OT  - Partner notification
+OT  - Redes de comunicación
+OT  - Sexually Transmitted Infection/HIV
+EDAT- 2015/02/25 06:00
+MHDA- 2017/02/14 06:00
+CRDT- 2015/02/25 06:00
+PHST- 2014/10/14 00:00 [received]
+PHST- 2015/01/14 00:00 [revised]
+PHST- 2015/01/14 00:00 [accepted]
+PHST- 2015/02/25 06:00 [entrez]
+PHST- 2015/02/25 06:00 [pubmed]
+PHST- 2017/02/14 06:00 [medline]
+AID - S0213-9111(15)00006-0 [pii]
+AID - 10.1016/j.gaceta.2015.01.003 [doi]
+PST - ppublish
+SO  - Gac Sanit. 2015 May-Jun;29(3):190-7. doi: 10.1016/j.gaceta.2015.01.003. Epub 2015 
+      Feb 21.
+
+PMID- 26765073
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161010
+LR  - 20181202
+IS  - 1521-0391 (Electronic)
+IS  - 1055-0496 (Print)
+IS  - 1055-0496 (Linking)
+VI  - 25
+IP  - 2
+DP  - 2016 Mar
+TI  - Predictors of needle exchange program utilization during its implementation and 
+      expansion in Tijuana, Mexico.
+PG  - 118-24
+LID - 10.1111/ajad.12326 [doi]
+AB  - OBJECTIVE: Until the early 2000s, there was only one needle exchange program (NEP) 
+      offered in Mexico. In 2004, the second Mexican NEP opened in Tijuana, but its 
+      utilization has not been studied. We studied predictors of initiating NEP during its 
+      early expansion in Tijuana, Mexico. METHODS: From April 2006 to April 2007, people 
+      who inject drugs (PWID) residing in Tijuana who had injected within the last month 
+      were recruited using respondent-driven sampling. Weighted Poisson regression 
+      incorporating generalized estimating equations was used to identify predictors of 
+      initiating NEP, while accounting for correlation between recruiter and recruits. 
+      RESULTS: NEP uptake increased from 20% at baseline to 59% after 6 months. Among a 
+      subsample of PWID not accessing NEP at baseline (n = 480), 83% were male and median 
+      age was 37 years (Interquartile Range: 32-43). At baseline, 4.4% were HIV-infected 
+      and 5.9% had syphilis titers >1:8. In multivariate models, factors associated with 
+      NEP initiation (p < .05) were attending shooting galleries (Adjusted Relative Risk 
+      [ARR]: 1.54); arrest for track-marks (ARR: 1.38); having a family member that ever 
+      used drugs (ARR: 1.37); and having a larger PWID network (ARR: 1.01 per 10 persons). 
+      NEP initiation was inversely associated with obtaining syringes at pharmacies (ARR: 
+      .56); earning >2500 pesos/month (ARR: .66); and reporting needle sharing (ARR: .71). 
+      CONCLUSIONS: Uptake of NEP expansion in Tijuana was vigorous among PWID. We 
+      identified a range of factors that influenced the likelihood of NEP initiation, 
+      including police interaction. These findings have important implications for the 
+      scale-up of NEP in Mexico.
+CI  - © American Academy of Addiction Psychiatry.
+FAU - Smith, Danielle M
+AU  - Smith DM
+AD  - Division of Global Public Health, Department of Medicine, University of California, 
+      San Diego.
+AD  - Faculty of Health Sciences, Simon Fraser University, Burnaby, British Columbia, 
+      Canada.
+FAU - Werb, Dan
+AU  - Werb D
+AD  - Division of Global Public Health, Department of Medicine, University of California, 
+      San Diego.
+FAU - Abramovitz, Daniela
+AU  - Abramovitz D
+AD  - Division of Global Public Health, Department of Medicine, University of California, 
+      San Diego.
+FAU - Magis-Rodriguez, Carlos
+AU  - Magis-Rodriguez C
+AD  - Centro Nacional parala Prevencion y Control del VIH/SIDA e ITS (CENSIDA), Mexico 
+      City, Mexico.
+FAU - Vera, Alicia
+AU  - Vera A
+AD  - Division of Global Public Health, Department of Medicine, University of California, 
+      San Diego.
+FAU - Patterson, Thomas L
+AU  - Patterson TL
+AD  - Division of Global Public Health, Department of Medicine, University of California, 
+      San Diego.
+FAU - Strathdee, Steffanie A
+AU  - Strathdee SA
+AD  - Division of Global Public Health, Department of Medicine, University of California, 
+      San Diego.
+CN  - for Proyecto El Cuete
+LA  - eng
+GR  - DP2 DA040256-01/DA/NIDA NIH HHS/United States
+GR  - R01 DA039073/DA/NIDA NIH HHS/United States
+GR  - DP2 DA040256/DA/NIDA NIH HHS/United States
+GR  - R01 DA019829/DA/NIDA NIH HHS/United States
+GR  - R37 DA019829/DA/NIDA NIH HHS/United States
+GR  - MOP-79297/Canadian Institutes of Health Research/Canada
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160114
+TA  - Am J Addict
+JT  - The American journal on addictions
+JID - 9208821
+SB  - IM
+MH  - Adult
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mexico
+MH  - Middle Aged
+MH  - Needle-Exchange Programs/*statistics & numerical data
+MH  - Patient Acceptance of Health Care/*statistics & numerical data
+MH  - Police/statistics & numerical data
+MH  - Substance Abuse, Intravenous/*prevention & control
+PMC - PMC5470727
+MID - NIHMS863804
+COIS- Declaration of Interest The authors report no conflicts of interest. The authors 
+      alone are responsible for the content and writing of this paper
+EDAT- 2016/01/15 06:00
+MHDA- 2016/10/11 06:00
+CRDT- 2016/01/15 06:00
+PHST- 2015/08/24 00:00 [received]
+PHST- 2015/11/18 00:00 [revised]
+PHST- 2015/12/10 00:00 [accepted]
+PHST- 2016/01/15 06:00 [entrez]
+PHST- 2016/01/15 06:00 [pubmed]
+PHST- 2016/10/11 06:00 [medline]
+AID - 10.1111/ajad.12326 [doi]
+PST - ppublish
+SO  - Am J Addict. 2016 Mar;25(2):118-24. doi: 10.1111/ajad.12326. Epub 2016 Jan 14.
+
+PMID- 30377979
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190711
+LR  - 20200225
+IS  - 1573-3254 (Electronic)
+IS  - 1090-7165 (Print)
+IS  - 1090-7165 (Linking)
+VI  - 23
+IP  - 4
+DP  - 2019 Apr
+TI  - Making the Link: A Pilot Health Navigation Intervention to Improve Timely Linkage to 
+      Care for Men Who have Sex with Men and Transgender Women Recently Diagnosed with HIV 
+      in Guatemala City.
+PG  - 900-907
+LID - 10.1007/s10461-018-2328-6 [doi]
+AB  - We piloted a health navigation strategy to promote timely linkage to care among men 
+      who have sex with men (MSM) and transgender women (TW) recently diagnosed with HIV 
+      in Guatemala City. We used a mixed-methods approach, integrating quantitative data 
+      collected during clinic visits and qualitative data from in-depth interviews, to 
+      characterize acceptability of navigation and time to linkage, defined as having the 
+      first clinical care visit. Out of 54 participants who enrolled in the pilot (n = 52 
+      MSM; n = 2 TW), 50 (92.6%) accepted navigation and all were linked to care. Median 
+      time to linkage was 3 days (Interquartile Range 2-5 days). In qualitative 
+      interviews, participants expressed feeling scared and alone following their 
+      diagnosis and appreciated the support of a navigator, especially when they did not 
+      feel they could access their existing support networks. Future research and 
+      evaluation should continue to assess how to best use health navigation to support 
+      key populations recently diagnosed with HIV.
+FAU - Loya-Montiel, M Itzel
+AU  - Loya-Montiel MI
+AD  - HIV Central America Regional Program, Center for Health Studies, Universidad del 
+      Valle de Guatemala, Guatemala City, Guatemala.
+FAU - Davis, Dirk A
+AU  - Davis DA
+AD  - Department of Health Behavior, Gillings School of Global Public Health, University 
+      of North Carolina, Chapel Hill, NC, USA.
+FAU - Aguilar-Martínez, Jose Manuel
+AU  - Aguilar-Martínez JM
+AD  - HIV Central America Regional Program, Center for Health Studies, Universidad del 
+      Valle de Guatemala, Guatemala City, Guatemala.
+FAU - Paz Bailey, Olga Alicia
+AU  - Paz Bailey OA
+AD  - Center for Conflict, Power and Violence Studies - CENDES, Guatemala City, Guatemala.
+FAU - Morales-Miranda, Sonia
+AU  - Morales-Miranda S
+AD  - Consorcio de Investigación sobre VIH, SIDA y TB (CISIDAT), Cuernavaca, Mexico.
+FAU - Alvis-Estrada, Juan Pablo
+AU  - Alvis-Estrada JP
+AD  - HIV Central America Regional Program, Center for Health Studies, Universidad del 
+      Valle de Guatemala, Guatemala City, Guatemala.
+FAU - Northbrook, Sanny
+AU  - Northbrook S
+AD  - U.S. Centers for Disease Control and Prevention (CDC) Central America Region, 
+      Guatemala City, Guatemala.
+FAU - Barrington, Clare
+AU  - Barrington C
+AD  - Department of Health Behavior, Gillings School of Global Public Health, University 
+      of North Carolina, Chapel Hill, NC, USA. cbarring@email.unc.edu.
+LA  - eng
+GR  - CC999999/Intramural CDC HHS/United States
+GR  - GH0000575/U.S. President's Emergency Plan for AIDS Relief/
+PT  - Journal Article
+TA  - AIDS Behav
+JT  - AIDS and behavior
+JID - 9712133
+SB  - IM
+MH  - Adult
+MH  - *Continuity of Patient Care
+MH  - Female
+MH  - Guatemala/epidemiology
+MH  - HIV Infections/diagnosis/*drug therapy/epidemiology
+MH  - *Health Services Accessibility/statistics & numerical data
+MH  - Homosexuality, Male/*psychology
+MH  - Humans
+MH  - Interviews as Topic
+MH  - Male
+MH  - *Patient Navigation
+MH  - Pilot Projects
+MH  - Qualitative Research
+MH  - Sexual and Gender Minorities
+MH  - Transgender Persons/psychology
+MH  - Transsexualism/*psychology
+PMC - PMC6691504
+MID - NIHMS1045779
+OTO - NOTNLM
+OT  - Guatemala
+OT  - HIV
+OT  - Health navigation
+OT  - Linkage to care
+OT  - MSM
+COIS- Disclosure Statement: No potential conflict of interest was reported by the authors.
+EDAT- 2018/11/01 06:00
+MHDA- 2019/07/12 06:00
+CRDT- 2018/11/01 06:00
+PHST- 2018/11/01 06:00 [pubmed]
+PHST- 2019/07/12 06:00 [medline]
+PHST- 2018/11/01 06:00 [entrez]
+AID - 10.1007/s10461-018-2328-6 [pii]
+AID - 10.1007/s10461-018-2328-6 [doi]
+PST - ppublish
+SO  - AIDS Behav. 2019 Apr;23(4):900-907. doi: 10.1007/s10461-018-2328-6.
+
+PMID- 26482266
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161031
+LR  - 20170916
+IS  - 1469-0691 (Electronic)
+IS  - 1198-743X (Linking)
+VI  - 22
+IP  - 2
+DP  - 2016 Feb
+TI  - Contribution of APOBEC3G/F activity to the development of low-abundance 
+      drug-resistant human immunodeficiency virus type 1 variants.
+PG  - 191-200
+LID - S1198-743X(15)00903-9 [pii]
+LID - 10.1016/j.cmi.2015.10.004 [doi]
+AB  - Plasma drug-resistant minority human immunodeficiency virus type 1 variants (DRMVs) 
+      increase the risk of virological failure to first-line non-nucleoside reverse 
+      transcriptase inhibitor antiretroviral therapy (ART). The origin of DRMVs in 
+      ART-naive patients, however, remains unclear. In a large pan-European case-control 
+      study investigating the clinical relevance of pre-existing DRMVs using 454 
+      pyrosequencing, the six most prevalent plasma DRMVs detected corresponded to G-to-A 
+      nucleotide mutations (V90I, V106I, V108I, E138K, M184I and M230I). Here, we 
+      evaluated if such DRMVs could have emerged from apolipoprotein B mRNA editing 
+      enzyme, catalytic polypeptide 3G/F (APOBEC3G/F) activity. Out of 236 ART-naive 
+      subjects evaluated, APOBEC3G/F hypermutation signatures were detected in plasma 
+      viruses of 14 (5.9%) individuals. Samples with minority E138K, M184I, and M230I 
+      mutations, but not those with V90I, V106I or V108I, were significantly associated 
+      with APOBEC3G/F activity (Fisher's P < 0.005), defined as the presence of > 0.5% of 
+      sample sequences with an APOBEC3G/F signature. Mutations E138K, M184I and M230I 
+      co-occurred in the same sequence as APOBEC3G/F signatures in 3/9 (33%), 5/11 (45%) 
+      and 4/8 (50%) of samples, respectively; such linkage was not found for V90I, V106I 
+      or V108I. In-frame STOP codons were observed in 1.5% of all clonal sequences; 14.8% 
+      of them co-occurred with APOBEC3G/F signatures. APOBEC3G/F-associated E138K, M184I 
+      and M230I appeared within clonal sequences containing in-frame STOP codons in 2/3 
+      (66%), 5/5 (100%) and 4/4 (100%) of the samples. In a re-analysis of the parent case 
+      control study, the presence of APOBEC3G/F signatures was not associated with 
+      virological failure. In conclusion, the contribution of APOBEC3G/F editing to the 
+      development of DRMVs is very limited and does not affect the efficacy of 
+      non-nucleoside reverse transcriptase inhibitor ART.
+CI  - Copyright © 2015 European Society of Clinical Microbiology and Infectious Diseases. 
+      Published by Elsevier Ltd. All rights reserved.
+FAU - Noguera-Julian, M
+AU  - Noguera-Julian M
+AD  - Institut de Recerca de la SIDA IrsiCaixa i Unitat VIH, Universitat Autònoma de 
+      Barcelona, Universitat de Vic, Catalonia, Spain. Electronic address: 
+      mnoguera@irsicaixa.es.
+FAU - Cozzi-Lepri, A
+AU  - Cozzi-Lepri A
+AD  - University College London, London, UK.
+FAU - Di Giallonardo, F
+AU  - Di Giallonardo F
+AD  - Division of Infectious Diseases and Hospital Epidemiology, University Hospital 
+      Zurich, University of Zurich, Zurich, Switzerland.
+FAU - Schuurman, R
+AU  - Schuurman R
+AD  - Department of Virology, University Medical Centre, Utrecht, The Netherlands.
+FAU - Däumer, M
+AU  - Däumer M
+AD  - Institut für Immunologie und Genetik, Kaiserslautern, Germany.
+FAU - Aitken, S
+AU  - Aitken S
+AD  - Department of Virology, University Medical Centre, Utrecht, The Netherlands.
+FAU - Ceccherini-Silberstein, F
+AU  - Ceccherini-Silberstein F
+AD  - Department of Experimental Medicine and Surgery, University of Rome Tor Vergata, 
+      Rome, Italy.
+FAU - D'Arminio Monforte, A
+AU  - D'Arminio Monforte A
+AD  - Department of Health Sciences, Clinic of Infectious Diseases, 'San Paolo' Hospital, 
+      University of Milan, Milan, Italy.
+FAU - Geretti, A M
+AU  - Geretti AM
+AD  - Institute of Infection & Global Health, University of Liverpool, Liverpool, UK.
+FAU - Booth, C L
+AU  - Booth CL
+AD  - Department of Virology, Royal Free London NHS Foundation Trust, London, UK.
+FAU - Kaiser, R
+AU  - Kaiser R
+AD  - Institute of Virology, University of Cologne, Cologne, Germany.
+FAU - Michalik, C
+AU  - Michalik C
+AD  - Competence Network for HIV/AIDS, Bochum, Germany; Clinic for Dermatology, 
+      Venereology and Allergology of the Ruhr-Universität, Bochum, Germany; Clinical Trial 
+      Centre (ZKS), University Cologne, Germany.
+FAU - Jansen, K
+AU  - Jansen K
+AD  - Competence Network for HIV/AIDS, Bochum, Germany; Clinic for Dermatology, 
+      Venereology and Allergology of the Ruhr-Universität, Bochum, Germany.
+FAU - Masquelier, B
+AU  - Masquelier B
+AD  - Laboratoire de Virologie, CHU de Bordeaux and MFP-UMR5234, Universite Bordeaux 2, 
+      Bordeaux, France.
+FAU - Bellecave, P
+AU  - Bellecave P
+AD  - Laboratoire de Virologie, CHU de Bordeaux and MFP-UMR5234, Universite Bordeaux 2, 
+      Bordeaux, France.
+FAU - Kouyos, R D
+AU  - Kouyos RD
+AD  - Division of Infectious Diseases and Hospital Epidemiology, University Hospital 
+      Zurich, University of Zurich, Zurich, Switzerland.
+FAU - Castro, E
+AU  - Castro E
+AD  - Addiction Medicine, Service of Community Psychiatry, Centre Hospitalier 
+      Universitaire Vaudois, Lausanne, Switzerland.
+FAU - Furrer, H
+AU  - Furrer H
+AD  - Department of Infectious Diseases, Bern University Hospital and University of Bern, 
+      Bern, Switzerland.
+FAU - Schultze, A
+AU  - Schultze A
+AD  - University College London, London, UK.
+FAU - Günthard, H F
+AU  - Günthard HF
+AD  - Division of Infectious Diseases and Hospital Epidemiology, University Hospital 
+      Zurich, University of Zurich, Zurich, Switzerland; Institute of Medical Virology, 
+      University of Zurich, Zurich, Switzerland.
+FAU - Brun-Vezinet, F
+AU  - Brun-Vezinet F
+AD  - Department of Virology, Bichat University Hospital, Paris7, France.
+FAU - Metzner, K J
+AU  - Metzner KJ
+AD  - Division of Infectious Diseases and Hospital Epidemiology, University Hospital 
+      Zurich, University of Zurich, Zurich, Switzerland; Institute of Medical Virology, 
+      University of Zurich, Zurich, Switzerland.
+FAU - Paredes, R
+AU  - Paredes R
+AD  - Institut de Recerca de la SIDA IrsiCaixa i Unitat VIH, Universitat Autònoma de 
+      Barcelona, Universitat de Vic, Catalonia, Spain.
+CN  - CHAIN Minority HIV-1 Variants Working group
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20151023
+PL  - England
+TA  - Clin Microbiol Infect
+JT  - Clinical microbiology and infection : the official publication of the European 
+      Society of Clinical Microbiology and Infectious Diseases
+JID - 9516420
+RN  - 0 (RNA, Viral)
+RN  - 0 (Reverse Transcriptase Inhibitors)
+RN  - EC 3.5.4.1 (APOBEC3F protein, human)
+RN  - EC 3.5.4.1 (Cytosine Deaminase)
+RN  - EC 3.5.4.5 (APOBEC-3G Deaminase)
+RN  - EC 3.5.4.5 (APOBEC3G protein, human)
+RN  - EC 3.5.4.5 (Cytidine Deaminase)
+SB  - IM
+MH  - APOBEC-3G Deaminase
+MH  - Antiretroviral Therapy, Highly Active
+MH  - Case-Control Studies
+MH  - Cytidine Deaminase/*genetics
+MH  - Cytosine Deaminase/*genetics
+MH  - *Drug Resistance, Viral
+MH  - Female
+MH  - HIV Infections/drug therapy/metabolism/*virology
+MH  - HIV-1/*genetics
+MH  - Humans
+MH  - Male
+MH  - *Mutation
+MH  - RNA Editing
+MH  - RNA, Viral/genetics/metabolism
+MH  - Reverse Transcriptase Inhibitors/therapeutic use
+OTO - NOTNLM
+OT  - APOBEC3
+OT  - NNRTI resistance
+OT  - human immunodeficiency virus type 1
+OT  - minority variants
+OT  - resistance
+FIR - Paredes, Roger
+IR  - Paredes R
+FIR - Metzner, Karin J
+IR  - Metzner KJ
+FIR - Cozzi-Lepri, Alessandro
+IR  - Cozzi-Lepri A
+FIR - Schuurman, Rob
+IR  - Schuurman R
+FIR - Brun-Vezinet, Francoise
+IR  - Brun-Vezinet F
+FIR - Günthard, Huldrych
+IR  - Günthard H
+FIR - Ceccherini-Silberstein, Francesca
+IR  - Ceccherini-Silberstein F
+FIR - Kaiser, Rolf
+IR  - Kaiser R
+FIR - Geretti, Anna Maria
+IR  - Geretti AM
+FIR - Brockmeyer, Norbert
+IR  - Brockmeyer N
+FIR - Masquelier, Bernard
+IR  - Masquelier B
+EDAT- 2015/10/21 06:00
+MHDA- 2016/11/01 06:00
+CRDT- 2015/10/21 06:00
+PHST- 2015/05/13 00:00 [received]
+PHST- 2015/09/07 00:00 [revised]
+PHST- 2015/10/03 00:00 [accepted]
+PHST- 2015/10/21 06:00 [entrez]
+PHST- 2015/10/21 06:00 [pubmed]
+PHST- 2016/11/01 06:00 [medline]
+AID - S1198-743X(15)00903-9 [pii]
+AID - 10.1016/j.cmi.2015.10.004 [doi]
+PST - ppublish
+SO  - Clin Microbiol Infect. 2016 Feb;22(2):191-200. doi: 10.1016/j.cmi.2015.10.004. Epub 
+      2015 Oct 23.
+
+PMID- 30722780
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200220
+LR  - 20200309
+IS  - 1471-2431 (Electronic)
+IS  - 1471-2431 (Linking)
+VI  - 19
+IP  - 1
+DP  - 2019 Feb 5
+TI  - High level of treatment failure and drug resistance to first-line antiretroviral 
+      therapies among HIV-infected children receiving decentralized care in Senegal.
+PG  - 47
+LID - 10.1186/s12887-019-1420-z [doi]
+LID - 47
+AB  - BACKGROUND: In Senegal in 2015, an estimated 4800 children were living with HIV, 
+      with 1200 receiving ARV treatment, of whom half had follow-up care in decentralized 
+      sites outside Dakar. However, until now no studies have determined the efficacy of 
+      pediatric treatment in decentralized settings, even though the emergence of viral 
+      resistance, particularly among children in Africa, is a well-known phenomenon. This 
+      study aimed to assess the virological status of HIV-infected children in all 
+      decentralized facilities to help improve access to quality care. METHODS: A 
+      cross-sectional epidemiological and virological study was conducted in all of 
+      Senegal's regions, except Dakar, between March and June 2015 and sought to include 
+      all HIV-infected children and adolescents (0-19 years), treated or not with ARVs. 
+      Socio-demographic and clinical data and a blood sample on blotting paper were 
+      collected for children from treatment sites. Samples were routed on public 
+      transportation, assisted by a network of community health workers. A viral load (VL) 
+      assay was performed for each child, followed by genotyping when it exceeded 1000 
+      copies/mL (3 log(10)). RESULTS: Of the 851 identified children, 666 (78%) were 
+      enrolled in the study. Half of the children were girls, and the average age was 
+      8 years (6 months-19 years). Most of the children (96.7%) were infected with HIV-1, 
+      and 90% were treated with ART, primarily with AZT + 3TC + NVP/EFV therapeutic 
+      regimen. The median duration of time on ART was 21 months (1-129). VL was measured 
+      for 2% of children before this study. Almost two-thirds (64%) of the children are 
+      experiencing virological failure. Among them, there was resistance to at least one 
+      drug for 86.5% of cases. Also, 25% children presented resistance to one drug and 40% 
+      to two out of three. For nearly one-third of the children presenting resistance, 
+      none of the three drugs of the treatment was active. Factors associated with 
+      virological failure were male sex, follow-up by a generalist rather than a 
+      specialist, and treatment interruptions. CONCLUSIONS: We observed a high level of 
+      virological failure and a high percentage of viral resistance among children 
+      receiving health care in decentralized facilities in Senegal.
+FAU - Cissé, Abdoul-Magib
+AU  - Cissé AM
+AD  - Service de pédiatrie Établissement Public de Santé (EPS) de Mbour, UFR Sciences de 
+      la Santé, Thiès University, Thiès, Senegal.
+FAU - Laborde-Balen, Gabrièle
+AU  - Laborde-Balen G
+AD  - Expertise France, Paris, France.
+AD  - ANRS-Senegal site, Dakar, Senegal.
+AD  - Centre régional de recherche et de formation à la prise en charge clinique de Fann 
+      (CRCF), Dakar, Senegal.
+FAU - Kébé-Fall, Khady
+AU  - Kébé-Fall K
+AD  - Bacteriology-Virology Laboratory, A. Le Dantec CHU, Cheikh Anta Diop University, 
+      Dakar, Senegal.
+FAU - Dramé, Aboubacry
+AU  - Dramé A
+AD  - Bacteriology-Virology Laboratory, A. Le Dantec CHU, Cheikh Anta Diop University, 
+      Dakar, Senegal.
+FAU - Diop, Halimatou
+AU  - Diop H
+AD  - Bacteriology-Virology Laboratory, A. Le Dantec CHU, Cheikh Anta Diop University, 
+      Dakar, Senegal.
+FAU - Diop, Karim
+AU  - Diop K
+AD  - Expertise France, Paris, France.
+AD  - Centre régional de recherche et de formation à la prise en charge clinique de Fann 
+      (CRCF), Dakar, Senegal.
+AD  - Division de lutte contre le sidxa et les IST (DLSI), Ministry of Health and Social 
+      Action (MSAS), Dakar, Senegal.
+FAU - FatouNiasse-Traoré
+AU  - FatouNiasse-Traoré
+AD  - Conseil national de lutte contre le sida (CNLS), Dakar, Senegal.
+FAU - Coulibaly, Mohamed
+AU  - Coulibaly M
+AD  - Division de lutte contre le sidxa et les IST (DLSI), Ministry of Health and Social 
+      Action (MSAS), Dakar, Senegal.
+FAU - Have, Ndeye-Ngone
+AU  - Have NN
+AD  - Réseau national des associations de personnes vivant avec le VIH au (RNP+), Dakar, 
+      Senegal.
+FAU - Vidal, Nicole
+AU  - Vidal N
+AD  - Institut de Recherche pour le Développement (IRD), Montpellier, France.
+FAU - Thiam, Safiatou
+AU  - Thiam S
+AD  - Conseil national de lutte contre le sida (CNLS), Dakar, Senegal.
+FAU - Wade, Abdoulaye S
+AU  - Wade AS
+AD  - Division de lutte contre le sidxa et les IST (DLSI), Ministry of Health and Social 
+      Action (MSAS), Dakar, Senegal.
+FAU - Peeters, Martine
+AU  - Peeters M
+AD  - Institut de Recherche pour le Développement (IRD), Montpellier, France.
+FAU - Taverne, Bernard
+AU  - Taverne B
+AD  - Centre régional de recherche et de formation à la prise en charge clinique de Fann 
+      (CRCF), Dakar, Senegal.
+AD  - Institut de Recherche pour le Développement (IRD), Montpellier, France.
+FAU - Msellati, Philippe
+AU  - Msellati P
+AUID- ORCID: 0000-0003-2568-1626
+AD  - Institut de Recherche pour le Développement (IRD), Montpellier, France. 
+      philippe.msellati@ird.fr.
+AD  - TransVIHMI, IRD, PACCI, 18 BP 1954, Abidjan 18, Abidjan, Côte d'Ivoire. 
+      philippe.msellati@ird.fr.
+FAU - Touré-Kane, Coumba
+AU  - Touré-Kane C
+AD  - Bacteriology-Virology Laboratory, A. Le Dantec CHU, Cheikh Anta Diop University, 
+      Dakar, Senegal.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190205
+TA  - BMC Pediatr
+JT  - BMC pediatrics
+JID - 100967804
+RN  - 0 (Anti-Retroviral Agents)
+SB  - IM
+MH  - Adolescent
+MH  - Anti-Retroviral Agents/*therapeutic use
+MH  - Child
+MH  - Child, Preschool
+MH  - Cross-Sectional Studies
+MH  - Delivery of Health Care/organization & administration
+MH  - *Drug Resistance, Viral
+MH  - Female
+MH  - HIV Infections/*drug therapy/epidemiology
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - Senegal/epidemiology
+MH  - *Treatment Failure
+MH  - Young Adult
+PMC - PMC6362577
+OTO - NOTNLM
+OT  - *Antiretroviral
+OT  - *Decentralization
+OT  - *Pediatric HIV
+OT  - *Senegal
+OT  - *Viral resistance
+COIS- ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The protocol was approved by the 
+      National Ethics Committee for Research in Health in Senegal on 16 December 2014 
+      under no. 377/MSAS/DPRS/CNERS. All parents or guardians provided written informed 
+      consent. CONSENT FOR PUBLICATION: “Not applicable”. COMPETING INTERESTS: The authors 
+      declare that they have no competing interests. PUBLISHER’S NOTE: Springer Nature 
+      remains neutral with regard to jurisdictional claims in published maps and 
+      institutional affiliations.
+EDAT- 2019/02/07 06:00
+MHDA- 2020/02/23 06:00
+CRDT- 2019/02/07 06:00
+PHST- 2018/10/12 00:00 [received]
+PHST- 2019/01/29 00:00 [accepted]
+PHST- 2019/02/07 06:00 [entrez]
+PHST- 2019/02/07 06:00 [pubmed]
+PHST- 2020/02/23 06:00 [medline]
+AID - 10.1186/s12887-019-1420-z [pii]
+AID - 1420 [pii]
+AID - 10.1186/s12887-019-1420-z [doi]
+PST - epublish
+SO  - BMC Pediatr. 2019 Feb 5;19(1):47. doi: 10.1186/s12887-019-1420-z.
+
+PMID- 25336166
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151016
+LR  - 20211021
+IS  - 1460-2091 (Electronic)
+IS  - 0305-7453 (Print)
+IS  - 0305-7453 (Linking)
+VI  - 70
+IP  - 3
+DP  - 2015 Mar
+TI  - Low-frequency drug-resistant HIV-1 and risk of virological failure to first-line 
+      NNRTI-based ART: a multicohort European case-control study using centralized 
+      ultrasensitive 454 pyrosequencing.
+PG  - 930-40
+LID - 10.1093/jac/dku426 [doi]
+AB  - OBJECTIVES: It is still debated if pre-existing minority drug-resistant HIV-1 
+      variants (MVs) affect the virological outcomes of first-line NNRTI-containing ART. 
+      METHODS: This Europe-wide case-control study included ART-naive subjects infected 
+      with drug-susceptible HIV-1 as revealed by population sequencing, who achieved 
+      virological suppression on first-line ART including one NNRTI. Cases experienced 
+      virological failure and controls were subjects from the same cohort whose viraemia 
+      remained suppressed at a matched time since initiation of ART. Blinded, centralized 
+      454 pyrosequencing with parallel bioinformatic analysis in two laboratories was used 
+      to identify MVs in the 1%-25% frequency range. ORs of virological failure according 
+      to MV detection were estimated by logistic regression. RESULTS: Two hundred and 
+      sixty samples (76 cases and 184 controls), mostly subtype B (73.5%), were used for 
+      the analysis. Identical MVs were detected in the two laboratories. 31.6% of cases 
+      and 16.8% of controls harboured pre-existing MVs. Detection of at least one MV 
+      versus no MVs was associated with an increased risk of virological failure 
+      (OR = 2.75, 95% CI = 1.35-5.60, P = 0.005); similar associations were observed for 
+      at least one MV versus no NRTI MVs (OR = 2.27, 95% CI = 0.76-6.77, P = 0.140) and at 
+      least one MV versus no NNRTI MVs (OR = 2.41, 95% CI = 1.12-5.18, P = 0.024). A 
+      dose-effect relationship between virological failure and mutational load was found. 
+      CONCLUSIONS: Pre-existing MVs more than double the risk of virological failure to 
+      first-line NNRTI-based ART.
+CI  - © The Author 2014. Published by Oxford University Press on behalf of the British 
+      Society for Antimicrobial Chemotherapy.
+FAU - Cozzi-Lepri, Alessandro
+AU  - Cozzi-Lepri A
+AD  - University College London, London, UK.
+FAU - Noguera-Julian, Marc
+AU  - Noguera-Julian M
+AD  - Institut de Recerca de la SIDA IrsiCaixa i Unitat VIH, Universitat Autònoma de 
+      Barcelona, Universitat de Vic, Catalonia, Spain.
+FAU - Di Giallonardo, Francesca
+AU  - Di Giallonardo F
+AD  - Division of Infectious Diseases and Hospital Epidemiology, University Hospital 
+      Zurich, University of Zurich, Zurich, Switzerland.
+FAU - Schuurman, Rob
+AU  - Schuurman R
+AD  - Department of Virology, University Medical Centre, Utrecht, The Netherlands.
+FAU - Däumer, Martin
+AU  - Däumer M
+AD  - Institut für Immunologie und Genetik, Kaiserslautern, Germany.
+FAU - Aitken, Sue
+AU  - Aitken S
+AD  - Department of Virology, University Medical Centre, Utrecht, The Netherlands.
+FAU - Ceccherini-Silberstein, Francesca
+AU  - Ceccherini-Silberstein F
+AD  - Department of Experimental Medicine and Surgery, University of Rome Tor Vergata, 
+      Rome, Italy.
+FAU - D'Arminio Monforte, Antonella
+AU  - D'Arminio Monforte A
+AD  - Department of Health Sciences, Clinic of Infectious Diseases, 'San Paolo' Hospital, 
+      University of Milan, Milan, Italy.
+FAU - Geretti, Anna Maria
+AU  - Geretti AM
+AD  - Institute of Infection & Global Health, University of Liverpool, Liverpool, UK.
+FAU - Booth, Clare L
+AU  - Booth CL
+AD  - Department of Virology, Royal Free London NHS Foundation Trust, London, UK.
+FAU - Kaiser, Rolf
+AU  - Kaiser R
+AD  - Institute of Virology, University of Cologne, Cologne, Germany.
+FAU - Michalik, Claudia
+AU  - Michalik C
+AD  - Competence Network for HIV/AIDS, Bochum, Germany and Clinic for Dermatology, 
+      Venerology and Allergology of the Ruhr-Universität, Bochum, Germany Clinical Trial 
+      Centre (ZKS), University of Cologne, Cologne, Germany.
+FAU - Jansen, Klaus
+AU  - Jansen K
+AD  - Competence Network for HIV/AIDS, Bochum, Germany and Clinic for Dermatology, 
+      Venerology and Allergology of the Ruhr-Universität, Bochum, Germany.
+FAU - Masquelier, Bernard
+AU  - Masquelier B
+AD  - Laboratoire de Virologie, CHU de Bordeaux and MFP-UMR5234, Université Bordeaux 2, 
+      Bordeaux, France.
+FAU - Bellecave, Pantxika
+AU  - Bellecave P
+AD  - Laboratoire de Virologie, CHU de Bordeaux and MFP-UMR5234, Université Bordeaux 2, 
+      Bordeaux, France.
+FAU - Kouyos, Roger D
+AU  - Kouyos RD
+AD  - Division of Infectious Diseases and Hospital Epidemiology, University Hospital 
+      Zurich, University of Zurich, Zurich, Switzerland.
+FAU - Castro, Erika
+AU  - Castro E
+AD  - Addiction Medicine, Service of Community Psychiatry, Centre Hospitalier 
+      Universitaire Vaudois, Lausanne, Switzerland.
+FAU - Furrer, Hansjakob
+AU  - Furrer H
+AD  - Department of Infectious Diseases, Bern University Hospital and University of Bern, 
+      Bern, Switzerland.
+FAU - Schultze, Anna
+AU  - Schultze A
+AD  - University College London, London, UK.
+FAU - Günthard, Huldrych F
+AU  - Günthard HF
+AD  - Division of Infectious Diseases and Hospital Epidemiology, University Hospital 
+      Zurich, University of Zurich, Zurich, Switzerland.
+FAU - Brun-Vezinet, Francoise
+AU  - Brun-Vezinet F
+AD  - Department of Virology, Bichat University Hospital, Paris, France.
+FAU - Paredes, Roger
+AU  - Paredes R
+AD  - Institut de Recerca de la SIDA IrsiCaixa i Unitat VIH, Universitat Autònoma de 
+      Barcelona, Universitat de Vic, Catalonia, Spain.
+FAU - Metzner, Karin J
+AU  - Metzner KJ
+AD  - Division of Infectious Diseases and Hospital Epidemiology, University Hospital 
+      Zurich, University of Zurich, Zurich, Switzerland karin.metzner@usz.ch.
+CN  - CHAIN Minority HIV-1 Variants Working Group
+LA  - eng
+PT  - Journal Article
+DEP - 20141021
+TA  - J Antimicrob Chemother
+JT  - The Journal of antimicrobial chemotherapy
+JID - 7513617
+RN  - 0 (Reverse Transcriptase Inhibitors)
+SB  - IM
+MH  - Adult
+MH  - Antiretroviral Therapy, Highly Active/*methods
+MH  - Case-Control Studies
+MH  - Cohort Studies
+MH  - Computational Biology
+MH  - *Drug Resistance, Viral
+MH  - Europe
+MH  - Female
+MH  - Genotype
+MH  - HIV Infections/*drug therapy/*virology
+MH  - HIV-1/*drug effects/genetics/isolation & purification
+MH  - High-Throughput Nucleotide Sequencing
+MH  - Humans
+MH  - Male
+MH  - Reverse Transcriptase Inhibitors/*therapeutic use
+MH  - Risk Assessment
+MH  - Sequence Analysis, DNA
+MH  - Treatment Failure
+MH  - Young Adult
+PMC - PMC4319483
+OTO - NOTNLM
+OT  - CHAIN
+OT  - European multicentre study
+OT  - antiretroviral therapy
+OT  - minority drug-resistant HIV-1 variants
+FIR - Paredes, Roger
+IR  - Paredes R
+FIR - Metzner, Karin J
+IR  - Metzner KJ
+FIR - Cozzi-Lepri, Alessandro
+IR  - Cozzi-Lepri A
+FIR - Schuurman, Rob
+IR  - Schuurman R
+FIR - Brun-Vezinet, Francoise
+IR  - Brun-Vezinet F
+FIR - Günthard, Huldrych
+IR  - Günthard H
+FIR - Ceccherini-Silberstein, Francesca
+IR  - Ceccherini-Silberstein F
+FIR - Kaiser, Rolf
+IR  - Kaiser R
+FIR - Geretti, Anna Maria
+IR  - Geretti AM
+FIR - Brockmeyer, Norbert
+IR  - Brockmeyer N
+FIR - Masquelier, Bernard
+IR  - Masquelier B
+EDAT- 2014/10/23 06:00
+MHDA- 2015/10/17 06:00
+CRDT- 2014/10/23 06:00
+PHST- 2014/10/23 06:00 [entrez]
+PHST- 2014/10/23 06:00 [pubmed]
+PHST- 2015/10/17 06:00 [medline]
+AID - dku426 [pii]
+AID - 10.1093/jac/dku426 [doi]
+PST - ppublish
+SO  - J Antimicrob Chemother. 2015 Mar;70(3):930-40. doi: 10.1093/jac/dku426. Epub 2014 
+      Oct 21.
